@@ -1,3 +1,9 @@
+Hello there,
+
+## React-assignment-2
+
+I have used material-ui to add icons in this project, In this project I was tasked to build a project using the API:https://api.tjori.com/api/v7filters/na/women-all-products/?f_page=1&format=json but since the API was not working, I have used the images and data from the figma file to build the project and displayed the first Assignment API's data which is :https://admin.tomedes.com/api/v1/get-reviews?page=1 to display that I can use the axiom NPM package to get data.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
