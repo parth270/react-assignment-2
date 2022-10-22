@@ -1,0 +1,21 @@
+.container{
+    margin: 50px 0 0 0;
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    overflow-x: hidden; 
+
+}
+
+.container div::-webkit-scrollbar{
+    display: none;
+}
+
+.container div{
+    display: flex;
+    overflow-x: scroll;
+}
+
+.container img{
+    margin: 0 0 0 60px;
+}

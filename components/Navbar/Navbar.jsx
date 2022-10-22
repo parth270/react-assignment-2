@@ -18,7 +18,25 @@ const Navbar = () => {
             <ShoppingBagOutlinedIcon/>
           </div>
         </div>
-        <div className={classes["lower-container"]}></div>
+        <div className={classes["lower-container"]}>
+          <div>
+            <span>
+              Bags
+            </span>
+            <span>
+              Travel
+            </span>
+            <span>
+              Accesories
+            </span>
+            <span>
+              Gifting
+            </span>
+            <span>
+              Jewelery
+            </span>
+          </div>
+        </div>
       </div>
     </>
   );

@@ -20,6 +20,7 @@
     font-size: 20px;
     margin: 30px 0 0 0 !important;
     font-weight: 200;
+    cursor: pointer;
     height: 28px;
     color: #fff;
     line-height: 28.33px;
@@ -40,4 +41,34 @@
     font-size: 28px;
     color: #fff;
     -webkit-text-stroke: 2px white;
+    cursor: pointer;
+}
+
+.lower-container{
+    width: 100%;
+    min-height:40px ;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.lower-container div{
+    width:472px;
+    height: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lower-container div span{
+    font-family: 'Encode Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color:#fff;
+    cursor: pointer;
 }
