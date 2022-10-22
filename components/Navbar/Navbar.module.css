@@ -1,0 +1,43 @@
+.container{
+    width: 100%;
+    height: 105px;
+    box-shadow: 0px 2px 0px 0px #00000029;
+
+}
+
+.upper-container{
+    width: 100%;
+    min-height: 50px;
+    display: flex;
+    padding:0 3% ;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.upper-container h1{
+    width: 197px;
+    font-size: 20px;
+    margin: 30px 0 0 0 !important;
+    font-weight: 200;
+    height: 28px;
+    color: #fff;
+    line-height: 28.33px;
+    letter-spacing: 8px;
+    font-family: 'Inter', sans-serif;
+}
+
+.upper-container div{
+    width: 190px;
+    height: 24px;
+    margin: 27px 16px 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.upper-container div svg{
+    font-size: 28px;
+    color: #fff;
+    -webkit-text-stroke: 2px white;
+}
